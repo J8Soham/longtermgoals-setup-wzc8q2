@@ -1,0 +1,42 @@
+.widget {
+  // replace this with your code
+  border: black 1px solid;
+  background-color: white;
+  border-radius: 12%;
+  padding: 3%;
+  position: relative;
+  display: flex;
+  padding-bottom: 50px;
+}
+
+.vertical {
+  border-left: 3px solid black;
+  height: 85px;
+  margin: 30px;
+}
+
+h1 {
+  color: green;
+  white-space: nowrap;
+}
+
+h2 {
+  margin: 4%;
+  color: green;
+}
+
+p {
+  margin: 4%;
+}
+
+.pencil {
+  position: absolute;
+  left: 80.4%;
+  right: 7.87%;
+  top: 82.9%;
+  bottom: 8.71%;
+}
+img {
+  width: 45px;
+  height: 45px;
+}
